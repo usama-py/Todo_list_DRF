@@ -86,7 +86,7 @@ The ToDo App includes the following models:
 
 To run the Django ToDo App locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/usama-py/Todo_list_DRF.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Apply migrations: `python manage.py migrate`
 4. Run the development server: `python manage.py runserver`
